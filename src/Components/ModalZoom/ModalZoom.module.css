@@ -1,0 +1,27 @@
+.contenedor{
+    display: flex;
+}
+
+
+.Overlay{
+    background-color:rgba(0,0,0,.7);
+    position:fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+
+.eliminar{
+    color: #F5F5F5;
+}
+
+p{
+    color:#F5F5F5;
+    font-size: 12px;
+}
+
+.none{
+    display: none;
+}

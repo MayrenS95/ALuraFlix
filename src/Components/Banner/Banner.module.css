@@ -1,0 +1,32 @@
+.fondo{
+    background-image: url("./logoBanner.png");
+    display: flex;
+    justify-content: space-around;
+    align-content: center;  
+    box-shadow: inset 0px 0px 10px 2px #2271D1;
+}
+
+.equipo{
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    gap:5%;
+    margin-left: 10px;
+}
+
+.equipo h3{
+    font-weight: bold;
+    color: #F5F5F5;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 30px; 
+    width: 50%;   
+
+}
+
+.desEquipo p{
+    color: #F5F5F5;
+    text-align: justify;
+    font-size: 25px;
+    margin:20px;
+}

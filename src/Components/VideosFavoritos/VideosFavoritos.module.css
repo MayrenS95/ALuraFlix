@@ -1,0 +1,13 @@
+.colaborador {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 6px 0px 10px 0px #2271D1;
+}
+
+.colaborador img {
+    border-radius: 2.3% 2.3% 2.3% 2.3%;
+    border-style: solid;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}

@@ -1,0 +1,46 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.1em;
+    background-color: #1f1e1e;
+    gap:2rem;
+    height: 60px;
+    box-shadow: inset 0px 0px 10px 2px #2271D1;
+}
+
+nav{
+    display: flex;
+    gap:1rem;
+}
+
+.botonH{
+    color:#2271D1;
+    background-color: #000000;
+    border-color: #2271D1;
+    border-radius: 0.5rem;
+    width: 100px;
+    height: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    box-shadow: inset 0.5px 0.5px 0.5px 0.5px #2271D1;
+    gap:1;
+}
+
+.botonN{
+    color:#FFFFFF;
+    background-color: #262626;
+    border-color: #FFFFFF;
+    border-radius: 0.5rem;
+    width: 100px;
+    height: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    box-shadow: inset 0.5px 0.5px 0.5px 0.5px #2271D1 ;
+}
+
+
+.link{
+    text-decoration: none;
+    color:#FFFFFF;
+}

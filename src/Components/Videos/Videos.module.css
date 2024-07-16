@@ -1,0 +1,39 @@
+.colaborador {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 6px 0px 10px 0px #2271D1;
+    
+}
+
+.colaborador img {
+    border-radius: 2.3% 2.3% 0 0;
+    border-style: solid;
+    
+}
+
+.eliminar{
+    color: #F5F5F5;
+}
+
+.colaborador p{
+    color:#F5F5F5;
+    font-size: 12px;
+}
+
+
+.opciones{
+    display: flex;
+    gap:2%;
+    width: 50%;
+    
+}
+
+.colaboradorOpciones{
+    display: flex;
+    justify-content: space-around;
+    width: 100%; 
+    box-shadow: inset 0px 0px 10px 2px #2271D1;
+    border-radius: 2.3% 2.3% 0 0;
+}
+
